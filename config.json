@@ -1,0 +1,46 @@
+{
+  "DINGTALK_SECRET": "",
+  "DINGTALK_ACCESS_TOKEN": "",
+  "FSKEY": "",
+  "SCKEY": "",
+  "SENDKEY": "",
+  "BARK_URL": "",
+  "QMSG_KEY": "",
+  "QMSG_TYPE": "",
+  "TG_BOT_TOKEN": "",
+  "TG_USER_ID": "",
+  "TG_API_HOST": "",
+  "TG_PROXY": "",
+  "COOLPUSHSKEY": "",
+  "COOLPUSHQQ": "",
+  "COOLPUSHWX": "",
+  "COOLPUSHEMAIL": "",
+  "QYWX_KEY": "",
+  "QYWX_CORPID": "",
+  "QYWX_AGENTID": "",
+  "QYWX_CORPSECRET": "",
+  "QYWX_TOUSER": "",
+  "QYWX_MEDIA_ID": "",
+  "PUSHPLUS_TOKEN": "",
+  "PUSHPLUS_TOPIC": "",
+  "MERGE_PUSH": "",
+  "VQQ": [
+    {
+      "auth_refresh": "https://access.video.qq.com/user/auth_refresh?xxxxx",
+      "cookie": "ck"
+    }
+  ],
+  "MIMOTION": [
+    {
+      "max_step": "最大步数",
+      "min_step": "最小",
+      "password": "密码",
+      "phone": "手机号"
+    }
+  ],
+  "WEIBO": [
+    {
+      "url": "https://api.weibo.cn/2/users/show?xxxxxx"
+    }
+  ]
+}
